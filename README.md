@@ -1,16 +1,7 @@
 # Celestial-Bodies-Database
 This repository contains a database schema for storing information about celestial bodies such as stars, planets, moons, and space missions. The database includes detailed data about the characteristics of these bodies, including their types, distance from Earth, mass, age, and related space missions.
 ## Tables
-'''
-\dt 
-'''
-+--------+---------------+-------+--------------+
-| public | galaxy        | table | freecodecamp |
-| public | moon          | table | freecodecamp |
-| public | planet        | table | freecodecamp |
-| public | space_mission | table | freecodecamp |
-| public | star          | table | freecodecamp |
-+--------+---------------+-------+--------------+
+''' \dt '''
 
 ## Sample Data
 
